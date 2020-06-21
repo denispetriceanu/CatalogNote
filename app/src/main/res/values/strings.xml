@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CatalogNote</string>
+    <string name="email">Email</string>
+    <string name="name">Nume</string>
+    <string name="keep_log">Afișează parola  </string>
+    <string name="go_log">loghează-te</string>
+    <string name="go_reg">înregistrează-te</string>
+    <string name="check_teacher_txt">Ești profesor? Bifează</string>
+</resources>

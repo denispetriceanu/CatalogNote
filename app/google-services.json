@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167451557110",
+    "firebase_url": "https://catalogonline-ea281.firebaseio.com",
+    "project_id": "catalogonline-ea281",
+    "storage_bucket": "catalogonline-ea281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167451557110:android:83603843aabe0ccb9b80d7",
+        "android_client_info": {
+          "package_name": "com.example.catalognote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167451557110-4klrfarm5pgt5d17f1sp2t764mo03tn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuONK_JdMlE-TPdmQd_90tN5L5x-4qM28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167451557110-4klrfarm5pgt5d17f1sp2t764mo03tn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
